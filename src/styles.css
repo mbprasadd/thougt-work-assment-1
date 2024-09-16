@@ -2,3 +2,11 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+.buttonsearch {
+  background-color: blue;
+  color: white;
+  height: 30px;
+  width: 80px;
+  margin: 10px;
+}
